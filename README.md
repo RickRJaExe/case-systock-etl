@@ -1,5 +1,7 @@
 # case-systock-etl
 Case técnico de integração de dados com ETL, PostgreSQL e SQL
+
+
 Objetivo
 
 Desenvolver um processo de integração e transformação de dados (ETL), estruturando e analisando informações provenientes de múltiplas fontes.
