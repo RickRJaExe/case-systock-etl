@@ -1,5 +1,26 @@
 # case-systock-etl
 Case técnico de integração de dados com ETL, PostgreSQL e SQL
+Objetivo
+
+Desenvolver um processo de integração e transformação de dados (ETL), estruturando e analisando informações provenientes de múltiplas fontes.
+
+⚙️ Tecnologias utilizadas
+PostgreSQL
+SQL
+DBeaver
+Conceitos de ETL
+📂 Estrutura do projeto
+scripts/ → Scripts SQL (criação, carga, consultas e triggers)
+data/ → Arquivos CSV utilizados na carga
+backup/ → Backup do banco de dados
+documentacao.pdf → Documentação completa do processo
+🔄 Processo realizado
+1. Análise da base
+
+Identificação de inconsistências estruturais e problemas de qualidade de dados.
+
+2. Transformação (ETL)
+Conversão de tipos
 Normalização de dados
 Validação de integridade
 3. Carga
